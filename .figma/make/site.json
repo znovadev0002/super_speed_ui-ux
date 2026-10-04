@@ -1,0 +1,10 @@
+{
+  "description": "Discover a premium mobile e-commerce platform for sportswear and sporting goods in Myanmar, featuring intuitive navigation, detailed product listings, and seamless checkout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
